@@ -267,6 +267,7 @@ label.error {
 .navbar-inverse .navbar-collapse,
 .navbar-inverse .navbar-form {
   border-color: #240e5f;
+  padding-bottom: 10px;
 }
 @media only screen and (max-width: 768px) {
   .nav-expanded {
@@ -796,4 +797,10 @@ label.error {
 }
 .owl-theme .owl-nav.disabled + .owl-dots {
   margin-top: 15px;
+}
+.logo-header{
+  font-weight: bold;
+  color: #FFFFFF;
+  padding: 0 0 5px 0;
+  margin: 0 0 5px 0;
 }
